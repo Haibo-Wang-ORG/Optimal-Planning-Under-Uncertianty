@@ -1,0 +1,1 @@
+./pomcp --mindoubles 8 --maxdoubles 8 --runs 1 --"num steps" 500 --timeout 7200 --problem robotnavigation --verbose 1 > log_plain.txt
