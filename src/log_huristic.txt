@@ -1,0 +1,197 @@
+Initialising fast UCB table... done
+Main runs
+State: 7 4
+Tree depth: 2.13281 [0, 4]
+Rollout depth: 22.7578 [17, 34]
+Total reward: 13.8744 [-1.06649, 25.2824]
+Action 3
+State: 7 4
+Observation 3
+Reward -1
+Matched 24 states
+Created 16 local transformations out of 60 attempts
+Tree depth: 4.01953 [0, 10]
+Rollout depth: 18.1016 [8, 31]
+Total reward: 18.8709 [3.24538, 27.6657]
+Action 1
+State: 7 5
+Observation 1
+Reward -1
+Matched 199 states
+Created 16 local transformations out of 18 attempts
+Tree depth: 2.86328 [0, 6]
+Rollout depth: 18.2773 [13, 29]
+Total reward: 20.9219 [4.46882, 32.8152]
+Action 3
+State: 6 5
+Observation 128
+Reward -1
+Matched 154 states
+Created 16 local transformations out of 18 attempts
+Tree depth: 3.4375 [0, 6]
+Rollout depth: 16.5742 [11, 27]
+Total reward: 23.2659 [8.53923, 35.5949]
+Action 3
+State: 5 5
+Observation 71
+Reward -1
+Matched 211 states
+Created 16 local transformations out of 21 attempts
+Tree depth: 3.50391 [0, 8]
+Rollout depth: 15.2031 [8, 26]
+Total reward: 26.3118 [7.11226, 38.521]
+Action 2
+State: 5 4
+Observation 102
+Reward -1
+Matched 202 states
+Created 16 local transformations out of 17 attempts
+Tree depth: 2.84375 [0, 7]
+Rollout depth: 14.7656 [8, 22]
+Total reward: 28.9685 [13.2867, 41.601]
+Action 2
+State: 5 3
+Observation 116
+Reward -1
+Matched 123 states
+Created 16 local transformations out of 16 attempts
+Tree depth: 3.32812 [0, 8]
+Rollout depth: 12.8594 [5, 22]
+Total reward: 32.647 [13.2867, 44.8432]
+Action 3
+State: 4 3
+Observation 8
+Reward -1
+Matched 183 states
+Created 16 local transformations out of 20 attempts
+Tree depth: 3.76562 [0, 9]
+Rollout depth: 11.4492 [4, 20]
+Total reward: 35.2994 [18.824, 48.256]
+Action 3
+State: 3 3
+Observation 17
+Reward -1
+Matched 178 states
+Created 16 local transformations out of 16 attempts
+Tree depth: 3.52734 [0, 9]
+Rollout depth: 10.2109 [2, 20]
+Total reward: 39.6354 [18.824, 51.8484]
+Action 1
+State: 3 4
+Observation 48
+Reward -1
+Matched 187 states
+Created 16 local transformations out of 16 attempts
+Tree depth: 4.46094 [0, 9]
+Rollout depth: 7.73705 [1, 18]
+Total reward: 44.9768 [20.8674, 55.6299]
+Action 1
+State: 3 5
+Observation 112
+Reward -1
+Matched 228 states
+Created 16 local transformations out of 18 attempts
+Tree depth: 3.58203 [0, 7]
+Rollout depth: 7.73438 [1, 14]
+Total reward: 47.4172 [27.6657, 59.6105]
+Action 1
+State: 3 6
+Observation 112
+Reward -1
+Matched 217 states
+Created 16 local transformations out of 17 attempts
+Tree depth: 3.58594 [0, 7]
+Rollout depth: 6.67578 [2, 15]
+Total reward: 51.1618 [32.8152, 63.8005]
+Action 1
+State: 3 7
+Observation 96
+Reward -1
+Matched 193 states
+Created 16 local transformations out of 20 attempts
+Tree depth: 4.17187 [0, 8]
+Rollout depth: 5.28571 [1, 13]
+Total reward: 56.0995 [35.5949, 68.211]
+Action 1
+State: 3 8
+Observation 92
+Reward -1
+Matched 219 states
+Created 16 local transformations out of 18 attempts
+Tree depth: 3.91016 [0, 6]
+Rollout depth: 5.34746 [1, 12]
+Total reward: 66.8558 [41.601, 72.8537]
+Action 4
+State: 4 8
+Observation 220
+Reward -1
+Matched 216 states
+Created 16 local transformations out of 18 attempts
+Tree depth: 3.46484 [0, 6]
+Rollout depth: 4.16842 [1, 7]
+Total reward: 72.9999 [55.6299, 77.7407]
+Action 4
+State: 5 8
+Observation 221
+Reward -1
+Matched 212 states
+Created 16 local transformations out of 17 attempts
+Tree depth: 2.95313 [0, 5]
+Rollout depth: 3.56863 [1, 7]
+Total reward: 79.6343 [48.256, 82.885]
+Action 4
+State: 6 8
+Observation 221
+Reward -1
+Matched 239 states
+Created 16 local transformations out of 16 attempts
+Tree depth: 2.10547 [0, 4]
+Rollout depth: 2.89655 [1, 6]
+Total reward: 86.0364 [59.6105, 88.3]
+Action 4
+State: 5 8
+Observation 221
+Reward -1
+Matched 246 states
+Created 16 local transformations out of 16 attempts
+Tree depth: 1.23047 [0, 3]
+Rollout depth: 2.35 [1, 5]
+Total reward: 91.7142 [63.8005, 94]
+Action 4
+State: 6 8
+Observation 221
+Reward -1
+Matched 61 states
+Created 16 local transformations out of 63 attempts
+Tree depth: 1.30078 [0, 3]
+Rollout depth: 2.32143 [1, 5]
+Total reward: 90.9516 [68.211, 94]
+Action 4
+State: 7 8
+Observation 221
+Reward -1
+Matched 73 states
+Created 16 local transformations out of 55 attempts
+Tree depth: 1.36328 [0, 3]
+Rollout depth: 2.59375 [1, 5]
+Total reward: 90.2556 [59.6105, 94]
+Action 4
+State: 8 8
+Observation 253
+Reward -1
+Matched 156 states
+Created 16 local transformations out of 25 attempts
+Tree depth: 0 [0, 0]
+Rollout depth: 0 [1e+10, -1e+10]
+Total reward: 100 [100, 100]
+Action 0
+State: 8 8
+Observation 256
+Reward 100
+Terminated
+Discounted return = 23.0183, average = 23.0183
+Undiscounted return = 80, average = 80
+Simulations = 256
+Steps = 21
+Average reward = 3.80952 +- 4.69361
+Average time = 0.000680762
